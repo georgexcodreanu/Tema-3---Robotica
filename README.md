@@ -3,11 +3,11 @@
 # Quick Time Game
 ## 1.Componente folosite :
 - 2x Arduino UNO (ATmega328P microcontroller)
-- 2x LED RGB (pentru a semnaliza dacă cuvântul corect e scris greșit sau nu)
-- 6x Butoane (pentru start/stop rundă și pentru selectarea dificultății)
+- 2x LED RGB
+- 6x Butoane
 - 20x Rezistoare (13x 330 Ohm, 7x 1K Ohm )
 - 1x Breadbord Mediu, 1x Breadbord Mare
-- O TONA DE Fire de legătură
+- Fire de legătură
 - 1x LCD
 - 1x Servomotor
 - 1x Potentiometru
@@ -43,4 +43,10 @@ La final, se va anunța câștigătorul și scorul final.
 https://www.youtube.com/shorts/5DWZDmWTSYU
 
 ## 5. Poze ale circuitului:
- ![alt text](https://github.com/slowdrop112/Robotics/blob/main/Tema3/POZA_CIRCUIT.JPEG)
+![tema3-1](https://github.com/user-attachments/assets/f61a709b-3360-4f4c-8220-c54e3ba3a176)
+
+![tema3-2](https://github.com/user-attachments/assets/f1c78bf2-d0cf-4693-b854-8cbbfbc66a18)
+
+![tema3-3](https://github.com/user-attachments/assets/4560cd8f-87fe-4b62-96c2-aee299d8ff15)
+
+ 
